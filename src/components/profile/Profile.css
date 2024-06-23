@@ -118,6 +118,7 @@
       height: 200px;
     }
     .profile {
+      margin-top: 100px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -140,5 +141,10 @@
   }
   .left{
     margin-top: 100px;
+  }
+  .profile-connect {
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size: 1rem;
   }
   }
