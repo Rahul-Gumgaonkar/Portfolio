@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: center;
     gap: 80px;
-    margin: 80px 170px;
+    /* margin: 80px 170px; */
 }
 
 .contact-title{
@@ -18,7 +18,7 @@
 }
 
 .contact-title h1{
-    padding: 0px 30px;
+    /* padding: 0px 30px; */
     font-size: 3rem;
     font-weight: 600;
     font-family: "Kalam", cursive;
@@ -131,4 +131,13 @@
         flex-direction: column;
         gap: 50px;
     }
-  }
+
+    .contact-right input{
+        width: 350px;
+    }
+    
+    .contact-right textarea{
+        width: 350px;
+    }
+    
+}
