@@ -1,5 +1,4 @@
 import React from "react";
-import Project from "../project/Project";
 import "./Projects.css";
 
 function Projects() {

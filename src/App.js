@@ -10,7 +10,7 @@ import Skills from "./components/skills/Skills";
 
 function App() {
   return (
-    <div>
+    <div className="main">
       <Navbar />
       <Profile />
       <About />

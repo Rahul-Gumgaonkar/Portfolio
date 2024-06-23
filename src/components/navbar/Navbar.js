@@ -4,7 +4,6 @@ import { AiOutlineMenu } from "react-icons/ai";
 import { RxCross2 } from "react-icons/rx";
 
 function Navbar() {
-  const [menu, setMenu] = useState("home");
   const menuRef = useRef();
 
   const openMenu = () => {
