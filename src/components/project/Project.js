@@ -79,8 +79,7 @@ const projects = [
       "Created a Tic Tac Toe game using HTML, CSS, and JavaScript, offering interactive gameplay with responsive design, intuitive user interface, and logic for two-player functionality, enhancing user engagement and enjoyment.",
     techStack: ["HTML", "CSS", "JavaScript"],
     img: TicTacToe,
-    liveDeployment:
-      "https://tic-tac-77za9eqyn-rahul-gumgaonkars-projects.vercel.app/",
+    liveDeployment: "https://tic-tac-toe-beta-beige.vercel.app/",
     githubRepo: "https://github.com/Rahul-Gumgaonkar/Tic-Tac-Toe",
   },
 ];

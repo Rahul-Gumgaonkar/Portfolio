@@ -51,6 +51,7 @@
 .skill-container {
     font-size: 2.5rem;
     font-weight: 500;
+    height: 150px;
     padding: 20px;
     color: rgb(255, 0, 0);
 }
@@ -127,7 +128,7 @@
       height: 100vh;
       padding: 0 20px;
       box-sizing: border-box;
-  }
+    }
 
   .profile-action {
     display: flex;
@@ -143,7 +144,7 @@
     margin-top: 100px;
   }
   .profile-connect {
-    padding: 5px 10px;
+    padding: 10px 12px;
     border-radius: 50px;
     font-size: 1rem;
   }
