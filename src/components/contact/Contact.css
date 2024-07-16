@@ -139,5 +139,30 @@
     .contact-right textarea{
         width: 350px;
     }
+
+    .contact-title h1{
+        /* padding: 0px 30px; */
+        font-size: 2rem;
+        
+    
+    }
+
+    .contact-left h1{
+        font-size: 1.8rem;
+        
+    }
+
+    .contact-left p{
+
+        font-size: 15px;
+    }
+    
+    .contact-details{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        color: #D8D8D8;
+        font-size: 22px;
+    }
     
 }
